@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="pieView">
+        <attr name="select_color" format="color"/>
+        <attr name="normal_color" format="color"/>
+        <attr name="normal_text_color" format="color"/>
+        <attr name="select_text_color" format="color"/>
+        <attr name="circle_color" format="color"/>
+    </declare-styleable>
+</resources>

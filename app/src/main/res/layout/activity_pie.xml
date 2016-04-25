@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:pieview="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <com.jkm.customcontrol.pieview.widegt.PieView
+        android:id="@+id/pv"
+        android:layout_width="match_parent"
+        android:background="#ff0000"
+        pieview:select_color="#0000ff"
+        pieview:normal_color="#dddddd"
+        pieview:normal_text_color="#0570E9"
+        pieview:select_text_color="#ffffff"
+        pieview:circle_color="#ffffff"
+        android:layout_height="300dp" />
+
+</RelativeLayout>
