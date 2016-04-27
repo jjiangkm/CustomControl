@@ -98,7 +98,7 @@ public class AliPayPieView extends View {
             rect = super.getWidth() > super.getHeight() ? super.getHeight()
                     : super.getWidth();
             // calculate radius length 半径长度
-            radiusLength = (int) ((rect / 2f)) - 15;
+            radiusLength = (int) ((rect / 2f)) - 20;
             // calculate position 屏幕中心点
             position = new Point((int) (getWidth() / 2f), (int) (getHeight() / 2f));
             // 画扇形
