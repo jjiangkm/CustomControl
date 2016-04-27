@@ -181,8 +181,8 @@ public class AliPayPieView extends View {
                     if (!isAnim && j == selectPosition) {
                         if(data.size()>1) {
                             oval = new RectF(position.x - radiusLength, position.y
-                                    - radiusLength+10, position.x + radiusLength, position.y
-                                    + radiusLength + 10);
+                                    - radiusLength+20, position.x + radiusLength, position.y
+                                    + radiusLength + 20);
                         }
                     } else {
                         oval = new RectF(position.x - radiusLength, position.y
