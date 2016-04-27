@@ -5,4 +5,4 @@
 
 新增仿支付宝对账单饼图
 
-![支付宝对账单](https://raw.githubusercontent.com/jjiangkm/CustomControl/master/pic/alipieview.jpg)
+![支付宝对账单](https://raw.githubusercontent.com/jjiangkm/CustomControl/master/pic/alipaypieview.gif)
