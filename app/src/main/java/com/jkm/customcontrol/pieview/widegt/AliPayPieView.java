@@ -135,7 +135,7 @@ public class AliPayPieView extends View {
     protected void drawCircle(Canvas canvas) {
 
         // draw a circle
-        canvas.drawCircle(position.x, position.y, radiusLength * 0.65f,
+        canvas.drawCircle(position.x, position.y, radiusLength * 0.5f,
                 mPaintCircleBorder);
     }
 
