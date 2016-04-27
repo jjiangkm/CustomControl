@@ -17,6 +17,8 @@
         </activity>
         <activity android:name=".activity.PieActivity">
         </activity>
+        <activity android:name=".activity.AliPayPieActivity">
+        </activity>
     </application>
 
 </manifest>
